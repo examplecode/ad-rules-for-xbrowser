@@ -1,0 +1,4 @@
+! Title: X浏览器拦截规则国内版本
+! Description: x浏览器针对国内版本的内建规则，由官方统一维护
+! Home: https://github.com/examplecode/ad-rules-for-xbrowser
+

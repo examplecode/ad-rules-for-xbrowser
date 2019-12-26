@@ -1,0 +1,3 @@
+! Title: The XBrowser adblock rule for global
+! Description: The built-in rules of the overseas version of the XBrowser are maintained by the official.
+! Home: https://github.com/examplecode/ad-rules-for-xbrowser
