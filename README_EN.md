@@ -1,7 +1,7 @@
 # Ad blcok rules for XBrowser
 
 
-This is a ad-block-rule maintained by XBrowser official.  Here are some features of these rules.
+This is a ad-block-rule maintained by [XBrowser](https://en.xbext.com) official.  Here are some features of these rules.
 
 
 - Based on own grammar rules of XBrowser.

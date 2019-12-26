@@ -3,7 +3,7 @@
 [English Version](README_EN.md)
 
 
-这是由x浏览器官方维护的拦截规则，其主要特色如下。
+这是由[X浏览器官](https://www.xbext.com)方维护的拦截规则，其主要特色如下。
 
 
 
