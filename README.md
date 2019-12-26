@@ -14,7 +14,7 @@
 
 ## 如何为X浏览器撰写规则
 
-http://xdoc.xbext.com/tutorials/write-adblock-rule-for-xbrowser/
+http://doc.xbext.com/tutorials/write-adblock-rule-for-xbrowser/
 
 ## 关于
 
