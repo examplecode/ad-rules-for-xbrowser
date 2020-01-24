@@ -3448,6 +3448,18 @@ wv26d.cn
 m.wv26d.cn
 vb3vb.xyz
 6x1ui.cn
+--[0-9]{1,5}\(com
+m.bh100.com.cn
+cxfzw.cn
+chinawms.cn
+huarongcraftsco.com
+cnywst.com
+hbstty.com
+cndetail.com.cn
+tsnuanshang.com
+m.huoyiad1.cn
+zgtcar.com
+chenzx.site
 
 
 
