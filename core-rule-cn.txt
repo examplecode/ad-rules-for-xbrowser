@@ -3449,6 +3449,7 @@ vb3vb.xyz
 6x1ui.cn
 --[0-9]{1,5}\(com
 --ConTypE
+--xn--2qu
 m.bh100.com.cn
 cxfzw.cn
 chinawms.cn
@@ -3656,3 +3657,12 @@ cyrc793.top
 cyfz998.top
 kyunheet.cn
 syxgsq.com.cn
+tingmin.com.cn
+jfsdiwmnbsk004.top
+txsadql.cn
+hongshi33.top
+jfsdiwmnbsk003.top
+tklbxip.cn
+yahgxog.cn
+y2wj8.cn
+xn--2qu92fhtx4ff.ink
