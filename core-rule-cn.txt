@@ -3269,8 +3269,6 @@ bcp.crwdcntrl.net
 ad.sitemaji.com
 ssl.sitemaji.com
 static.awempire.com
-#www.tube8.com
-ss.phncdn.com
 #xhamster.com
 vi2ishae.xhamster.com
 ads.adxpansion.com
@@ -3729,3 +3727,4 @@ xlgtblj.cn
 50989w.com
 50989q.com
 jf50989.com
+shukongshebei.net
