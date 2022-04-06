@@ -274,6 +274,7 @@ gsycdb.com
 ##.ads-footer
 --header1.js@99mm5.com
 ##div[class*="adv"]
+zaobao.com#@#div[class*="adv"]
 ##div[class*="ads"]
 ##div[class*="ad-container"]
 ##div[section*="banner"]
@@ -3504,7 +3505,7 @@ xn--cjr60y21klpd.com
 mytianqi.vip
 h2tywo.cn
 sysjhy.cn
-##a[target='_blank']>img!10
+##a[target='_blank']>img->10
 ##a[target='_blank']>img->20
 ##a[target='_blank']>img[src$='.gif']->5
 ##a[target='_blank']>img[src*='ad']->5
