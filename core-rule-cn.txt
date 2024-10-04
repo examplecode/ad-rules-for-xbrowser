@@ -273,7 +273,6 @@ gsycdb.com
 ##.ads
 ##.ads-footer
 --header1.js@99mm5.com
-##div[class*="adv"]
 zaobao.com#@#div[class*="adv"]
 ##div[class*="ads"]
 ##div[class*="ad-container"]
