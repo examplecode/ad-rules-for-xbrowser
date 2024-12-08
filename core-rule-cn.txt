@@ -3504,11 +3504,6 @@ xn--cjr60y21klpd.com
 mytianqi.vip
 h2tywo.cn
 sysjhy.cn
-##a[target='_blank']>img->10
-##a[target='_blank']>img->20
-##a[target='_blank']>img[src$='.gif']->5
-##a[target='_blank']>img[src*='ad']->5
-##a[target='_blank'][href*='ad']>img->5
 www.66993.top
 /geminivideoads/
 www.oiwjcsh012.top
