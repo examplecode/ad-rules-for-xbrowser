@@ -1686,8 +1686,6 @@ brandshow.58.com
 jing.58.com
 ptracker.58.com
 static.track.58.com
-track.58.com
-tracklog.58.com
 usdtop.58.com
 img.xgo.com.cn
 stat.58.xgo.com.cn
