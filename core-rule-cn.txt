@@ -3,7 +3,6 @@
 ! Home: https://github.com/examplecode/ad-rules-for-xbrowser
 
 # start of official
-/ad/$3p
 /adimages/
 /ads/
 /ads/media/images/
